@@ -63,6 +63,6 @@ This project strengthened my knowledge of:
 * Full-Stack Development
 * Python Programming
 
-
+📽️ Demo Video: [Click Here](D:\Projects\Tourism\2026-06-30 15-54-42.mp4)
 
 This project demonstrates how **Machine Learning** and **Data Analytics** can be applied to build intelligent travel applications that deliver personalized recommendations and actionable insights for users.
