@@ -1,4 +1,4 @@
-# 🌍 AI-Powered Tourism Recommendation System
+# 🌍 Tourism Experience Analytics: Classification, Prediction, and Recommendation System
 
 Tourism recommendation web application built with **Flask** and **Machine Learning** that helps users discover personalized travel destinations based on their preferences. The application combines recommendation algorithms, interactive dashboards, destination analytics, and rich travel information to provide an engaging trip-planning experience.
 
